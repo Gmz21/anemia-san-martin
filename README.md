@@ -76,4 +76,11 @@ Finalmente, se utiliza PowerBI como herramienta para la visualización de data r
 <img src="assets/analisis-clinico.PNG">
 
 #### Conclusiones:
-- 
+- El proceso de normalización permitió estructurar la información de manera eficiente y escalable.
+- El uso de un modelo relacional facilitó el análisis multidimensional en Power BI.
+- En la región de San Martín, un total de 369 establecimientos de salud registran atenciones relacionadas con la anemia.
+- En la gran mayoría de las atenciones, el financiador corresponde al Seguro Integral de Salud (SIS).
+- En todas las provincias analizadas existe más de un establecimiento de salud que brinda atención por esta enfermedad.
+- El grado de anemia más frecuente es el leve, mientras que el menos frecuente es el severo.
+- El grupo etario más afectado por la anemia corresponde a infantes entre 1 y 2 años de edad.
+- La etnia predominante entre los casos registrados es la mestiza.
